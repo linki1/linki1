@@ -1,0 +1,1146 @@
+@font-face {
+    font-family: roboto;
+    src: url(../fonts/RobotoMono-Italic-VariableFont_wght.ttf);
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+.fontAll {
+    font-family: roboto;
+}
+
+.bacgroundFon {
+    background-image: url(../img/main.png);
+
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+.flexUl1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.body {
+    width: 100%;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+
+
+.flexUl {
+    display: flex;
+}
+
+.marginSvg {
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.styleUl {
+
+    margin-top: 48px;
+
+}
+
+.liStyle {
+    margin-left: 56px;
+}
+
+.butonStyle {
+
+    margin-top: 30px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+    border-radius: 50px;
+    width: 183px;
+    height: 44px;
+    color: #FFFFFF;
+    border: none;
+}
+
+.position {
+    position: absolute;
+    right: 10px;
+    bottom: 8px;
+}
+
+.position4 {
+    position: absolute;
+    right: 0;
+
+}
+
+.position5 {
+    position: absolute;
+    left: 0;
+
+}
+
+
+.box {
+    margin-top: 198px;
+    margin-left: 312px;
+    color: #FFFFFF;
+}
+
+.h1Style {
+    font-size: 64px;
+}
+
+.h1Style:first-child {
+    margin-bottom: 50px;
+}
+
+.box1 {
+    margin-top: 50px;
+    margin-left: 312px;
+    padding-bottom: 230px;
+    color: #FFFFFF;
+}
+
+.squareSection {
+    background: #121212;
+    width: 102px;
+    height: 112px;
+    margin-left: 30px;
+}
+
+.squareSection:first-child {
+    margin-left: 0;
+}
+
+.flexSq16 {
+    display: flex;
+    flex-direction: row;
+}
+
+.flexSq161 {
+    display: flex;
+    flex-direction: row;
+}
+
+.widthImg {
+    width: 78px;
+    height: 78px;
+}
+
+.flexSq24 {
+    display: flex;
+    flex-direction: row;
+}
+
+.widthProg {
+    width: 670px;
+}
+
+.flexSqart {
+    display: flex;
+    flex-direction: row;
+}
+
+.flexSqart1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.flexSq {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.flexSq3 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+
+.textIntoSquare {
+
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.textIntoSquare2 {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+
+.textIntoSquare2FromA {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+
+.hadFooter {
+    background-color: #121212;
+    width: 100%;
+    justify-content: center;
+    padding: 43px 0;
+}
+
+.box3 {
+    margin-left: 80px;
+}
+
+.box3:first-child {
+    margin-left: 0;
+    justify-content: space-between;
+}
+
+.butonStyle2 {
+    background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+    border-radius: 50px;
+    width: 183px;
+    height: 44px;
+    color: #FFFFFF;
+    border: none;
+}
+
+.marginLeftP {
+    margin-left: 107px;
+}
+
+.marginLeftP2 {
+    margin-left: 30px;
+}
+
+.flexSq1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flexSq2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.pr {
+    width: 670px;
+    height: 6px;
+    border-radius: 0px;
+    margin-bottom: 4px;
+}
+
+progress::-webkit-progress-value {
+    background: linear-gradient(94.78deg,
+            #DF5950 11.19%,
+            #451046 93.72%);
+}
+
+.bacgroundFon2 {
+    background: url(../img/bgc.png);
+    background-repeat: repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 5px;
+    max-width: 1310px;
+}
+
+.box4 {
+    padding-top: 200px;
+}
+
+
+
+.textNearImg {
+    margin-left: 134px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+}
+
+.textNearImg2 {
+    margin-left: 134px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 36px;
+    text-align: left;
+    margin-bottom: 45px;
+    margin-top: 69px;
+}
+
+.box5 {
+    padding-top: 200px;
+
+}
+
+.boxdiv {
+    width: 700px;
+}
+
+.textSection {
+    margin-left: 20px;
+    padding-top: 18px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+}
+
+.textSection2 {
+
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.boxSection {
+    padding-bottom: 80px;
+    padding-top: 49px;
+    width: 450px;
+}
+
+.textSection3 {
+    margin-left: 20px;
+    padding-top: 18px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.boxColor {
+    margin-top: 20px;
+    margin-bottom: 35px;
+    width: 324px;
+    height: 80px;
+    color: #C89AFC;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+}
+
+.boxColor1 {
+    margin-top: 30px;
+    margin-bottom: 45px;
+    width: 324px;
+    height: 60px;
+    color: #C89AFC;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+}
+
+.boxColor2 {
+    margin-top: 40px;
+    margin-bottom: 55px;
+    width: 324px;
+    height: 30px;
+    color: #C89AFC;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+}
+
+.boxColor3 {
+    margin-top: 50px;
+    margin-bottom: 65px;
+    width: 324px;
+    height: 10px;
+    color: #C89AFC;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+}
+
+.boxSection2 {
+    width: 312px;
+}
+
+.sectionPadding {
+    padding-bottom: 200px;
+}
+
+.textPicture {
+    margin-bottom: 30px;
+    padding-top: 18px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+}
+
+.boxSection3 {
+    margin-top: 120px;
+    width: 358px;
+}
+
+.img {
+    padding-left: 110px;
+    margin-bottom: 66px;
+}
+
+.textArticle {
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+
+.thStyle {
+    padding: 29px 68px;
+    border-right: solid rgba(79, 76, 76, 0.931);
+    border-bottom: solid rgba(79, 76, 76, 0.931);
+}
+
+.thStyle:last-child {
+    border-right: none;
+}
+
+.thStyle1 {
+    padding: 29px 68px;
+    border-right: solid rgba(79, 76, 76, 0.931);
+
+}
+
+.thStyle1:last-child {
+    border-right: none;
+}
+
+.textTable {
+    margin-top: 15px;
+    margin-left: 52px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 48px;
+
+}
+
+.boxMargin {
+    margin-bottom: 117px;
+    margin-top: 231px;
+}
+
+.boxPading1 {
+    Padding-bottom: 271px;
+}
+
+.centre {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.perpuleBox {
+
+    height: 105px;
+    width: 9px;
+    background: #C89AFC;
+}
+
+.flexColom {
+    display: flex;
+    flex-direction: column;
+}
+
+.stick {
+    width: 40px;
+    height: 1px;
+    background-color: rgb(129, 125, 125);
+    color: rgb(129, 125, 125);
+    margin-top: 45px;
+}
+
+.textNearStick {
+    margin-right: 15px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: right;
+    padding-bottom: 15px;
+}
+
+.textNearStick1 {
+
+    width: 228px;
+    margin-left: 134px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: left;
+}
+
+.marginStick {
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.marginBox {
+    margin-top: 80px;
+}
+
+.marginStick1 {
+    margin-right: 400px;
+}
+
+.textTable1 {
+    margin-bottom: 30px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 48px;
+
+}
+
+.img1 {
+    margin-bottom: 76.5px;
+}
+
+.textArticle1 {
+
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+
+.centre1 {
+    display: flex;
+    justify-content: center;
+}
+
+.textNearStickL {
+    margin-left: 20px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: left;
+    padding-bottom: 15px;
+}
+
+.textNearStick1L {
+    width: 228px;
+    margin-left: 20px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: left;
+}
+
+.marginLeftBox {
+    margin-left: 330px;
+}
+
+.padingBox {
+    padding-bottom: 231px;
+}
+
+.width {
+    width: 411px;
+
+}
+
+.textImg {
+    padding-left: 36.5px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 48px;
+}
+
+.textImgArticle {
+
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+}
+
+.butonArticle {
+    margin-top: 30px;
+    padding: 10px 30px;
+    color: #FFFFFF;
+    background: none;
+    border: 1px solid #FFFFFF;
+    border-radius: 50px;
+}
+
+.imgArticle {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.marginArticle {
+    margin-top: 113px;
+    padding-bottom: 200px;
+}
+
+.container2 {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 550px;
+}
+
+.textFooter {
+    width: 547px;
+    margin-bottom: 30px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.textFooter2 {
+    width: 411px;
+    margin-bottom: 60px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+}
+
+.inputFooter {
+    width: 400px;
+    padding: 10px;
+    color: #FFFFFF;
+    background-color: #ffffff1d;
+    border: none;
+    font-size: 20px;
+    border-radius: 50px 0 0 50px;
+}
+
+.reletive {
+    width: 547px;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.reletive1 {
+
+    position: relative;
+
+}
+
+.absolute {
+    position: absolute;
+    left: 400px;
+}
+
+.butonStyleFooter {
+    margin-right: 12px;
+    background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+    border-radius: 50px;
+    width: 160px;
+    font-size: 16px;
+    height: 44px;
+    color: #FFFFFF;
+    border: none;
+}
+
+
+
+.butonStyleImg {
+    background: linear-gradient(94.26deg,
+            #C89AFC 9.51%,
+            #7C6AFA 90.23%);
+    border-radius: 50%;
+    padding: 10px;
+
+}
+
+table {
+    width: 100px;
+
+}
+
+.col1 {
+    width: 198px;
+
+}
+
+.textIntoSquare2FromA:hover {
+
+    color: rgb(127, 122, 122);
+    transition: 1s;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.butonStyle:hover {
+    transition: 0.5s;
+    color: #451046;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.butonArticle:hover {
+    padding: 25px;
+    color: rgb(127, 122, 122);
+    border: 1px solid rgb(127, 122, 122);
+    transition: 0.5s;
+}
+
+.butonStyleFooter:hover {
+    transition: 0.5s;
+    color: #430721;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.butonStyle2:hover {
+    transition: 0.5s;
+    color: #430721;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.butonStyleImg:hover {
+    cursor: pointer;
+    padding: 20px;
+    transition: 1s;
+}
+
+@media screen and (max-width: 1880px) {
+
+    .flexUl1 {
+        justify-content: flex-start;
+    }
+
+    .h1Style {
+        font-size: 48px;
+    }
+}
+
+@media screen and (max-width: 1700px) {
+    .box1 {
+        padding-bottom: 115px;
+    }
+
+    .h1Style {
+        font-size: 48px;
+    }
+}
+
+@media screen and (max-width:1540px) {
+
+    .h1Style {
+        font-size: 40px;
+    }
+
+    .squareSection {
+
+        width: 80px;
+        height: 80px;
+
+    }
+
+    .textIntoSquare {
+
+
+        font-size: 24px;
+    }
+
+}
+
+@media screen and (max-width:1510px) {
+    .box {
+
+        margin-left: 100px;
+
+    }
+
+    .box1 {
+
+        margin-left: 100px;
+    }
+
+    .boxColor {
+
+        width: 280px;
+    }
+
+    .boxColor1 {
+
+        width: 280px;
+    }
+
+    .boxColor2 {
+
+        width: 280px;
+    }
+
+    .boxColor3 {
+
+        width: 280px;
+    }
+
+    .boxSection2 {
+        width: 250px;
+    }
+
+    .textSection2 {
+
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 13px;
+
+    }
+
+    .col1 {
+        width: 140px;
+
+    }
+
+}
+
+@media screen and (max-width:1320px) {
+    .container {
+
+        max-width: 700px;
+    }
+
+    .col1 {
+        width: 80px;
+
+    }
+
+    .boxColor {
+
+        width: 150px;
+    }
+
+    .boxColor1 {
+
+        width: 150px;
+    }
+
+    .boxColor2 {
+
+        width: 150px;
+    }
+
+    .boxColor3 {
+
+        width: 150px;
+    }
+
+    .pr {
+        width: 407px;
+    }
+
+    .widthProg {
+        width: 407px;
+    }
+
+    .boxSection2 {
+        width: 150px;
+    }
+
+    .liStyle {
+        margin-left: 25px;
+    }
+}
+
+@media screen and (max-width: 1110px) {
+    .col1 {
+        width: 80px;
+
+    }
+
+    .thStyle {
+        padding: 29px 20px;
+    }
+
+    .thStyle1 {
+        padding: 29px 20px;
+    }
+
+    .flexSq16 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .pr {
+        width: 270px;
+    }
+
+    .widthProg {
+        width: 270px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .flexUl1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .flexUl {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .position {
+        position: unset;
+
+        margin-left: 20px;
+    }
+
+    .liStyle {
+        margin-bottom: 10px;
+        margin-left: 25px;
+    }
+
+    .marginSvg {
+        margin-left: 30px;
+
+    }
+
+    .flexSq24 {
+
+        flex-direction: column;
+    }
+
+    .box3 {
+        margin-left: 15px;
+        margin-bottom: 15px;
+    }
+
+    .butonStyle2 {
+        margin-left: 15px;
+    }
+
+}
+
+@media screen and (max-width:750px) {
+    .marginLeftBox {
+        margin-left: 254px;
+    }
+
+    .marginStick1 {
+        margin-right: 329px;
+    }
+
+    .textNearStick1L {
+        width: 153px;
+    }
+
+    .textNearStick1 {
+        width: 157px;
+    }
+
+    .perpuleBox {
+        height: 111px;
+    }
+
+    .flexSq1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .flexSqart {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .absolute {
+        position: absolute;
+        left: 322px;
+    }
+
+    .inputFooter {
+        width: 212px;
+    }
+
+    .textFooter {
+        width: 463px;
+    }
+
+    .img {
+        padding-left: 130px;
+    }
+
+    .butonStyleFooter {
+        width: 90px;
+        font-size: 12px;
+    }
+
+    .marginLeftP2 {
+        margin-left: 0;
+    }
+
+    .textNearImg {
+
+        color: rgb(255 255 255);
+
+        font-size: 14px;
+
+        width: 100%;
+    }
+
+    .textNearImg2 {
+        margin-left: 0;
+
+        font-size: 24px;
+
+        margin-bottom: 45px;
+        margin-top: 69px;
+    }
+
+    .boxdiv {
+        width: 100%;
+    }
+
+}
+
+@media screen and (max-width:630px) {
+    .box {
+        margin-left: 30px;
+    }
+
+    .box1 {
+        margin-left: 30px;
+    }
+
+    .textSection {
+        margin-left: 0;
+        text-align: left;
+    }
+
+    .boxColor {
+        width: 80px;
+    }
+
+    .boxColor1 {
+        width: 80px;
+    }
+
+    .boxColor2 {
+        width: 80px;
+    }
+
+    .boxColor3 {
+        width: 80px;
+    }
+
+    .textSection3 {
+        margin-left: 9px;
+        font-size: 24px;
+
+
+
+    }
+
+    .boxSection2 {
+        width: 80px;
+        font-size: 10px;
+    }
+
+    .textIntoSquare {
+        font-size: 18px;
+    }
+
+    .textPicture {
+
+        font-size: 18px;
+
+    }
+
+    .textArticle {
+        font-size: 10px;
+    }
+
+    .textTable {
+
+        margin-left: 0;
+
+        font-size: 24px;
+    }
+
+    .thStyle {
+        padding: 15px 15px;
+    }
+
+    .thStyle1 {
+        padding: 15px 15px;
+    }
+
+    .col1 {
+        width: 50px;
+    }
+
+    .flexSq161 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .textTable1 {
+
+        font-size: 48px;
+    }
+
+    .width {
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    .textArticle {
+
+        font-size: 10px;
+
+    }
+
+    .perpuleBox {
+        height: 156px;
+    }
+
+    .marginLeftBox {
+        margin-left: 148px;
+    }
+
+    .textNearStick1 {
+        width: 85px;
+    }
+
+    .textNearStick {
+        margin-right: 8px;
+    }
+
+    .textNearStick1L {
+        width: 118px;
+    }
+
+    .textImg {
+
+        font-size: 24px;
+    }
+
+    .textFooter {
+        width: 100%;
+    }
+
+    .textFooter2 {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .absolute {
+        position: static;
+
+    }
+
+    .butonStyleFooter {
+        margin-left: 5px;
+    }
+}
